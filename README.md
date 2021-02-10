@@ -25,6 +25,27 @@ This notebook details some exploratory data analysis approaches. I also go throu
     - Visualizing using Heatmaps
 * P-values and correlation
 
+## Data Wrangling
+
+This notebook contains concepts and notes on data wrangling: preparing data for further analysis and model development. Specifically, it discusses:
+
+* Setting Headers
+* Correcting the Data
+    - Identifying the missing values
+        + Converting other markers (such as ?) to NAN
+        + Analysing for missing data
+    - Dealing with missing values
+        + Dropping data
+        + Replacing data with mean and frequency
+    - Correcting the data format
+* Data Standardization
+* Data Noramalization
+* Binning
+    - Visualizing Bins
+* Encoding Categorical Variables
+    - Label Encoding
+    - One-hot Encoding
+
 ## SQL and Pandas
 
 This notebook details some important and commonly used information on Pandas Python Library and SQL. Specifically, it talks about:
