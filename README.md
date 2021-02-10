@@ -1,9 +1,10 @@
 # Data Science Concepts
------------------------
 
-This repository contains notebooks detailing Data Science Concepts and my notes. 
+This repository contains Jupyter notebooks detailing Data Science Concepts and my notes on them. 
 
 It should be useful for both a quick review and a reference to fall back upon.
+
+The notebooks contain both vital theory and practical example with real-life dataset.
 
 The details in the notebooks discussed are:
 
@@ -27,7 +28,7 @@ This notebook details some exploratory data analysis approaches. I also go throu
 
 ## Data Wrangling
 
-This notebook contains concepts and notes on data wrangling: preparing data for further analysis and model development. Specifically, it discusses:
+This notebook contains concepts and notes on data wrangling: preparing data for further analysis and model development. We go through a life-like example and clean a data from the UCI Machine Learning Repository. Specifically, it discusses:
 
 * Setting Headers
 * Correcting the Data
