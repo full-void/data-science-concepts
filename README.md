@@ -4,7 +4,7 @@ This repository contains Jupyter notebooks detailing Data Science Concepts and m
 
 It should be useful for both a quick review and a reference to fall back upon.
 
-The notebooks contain both vital theory and practical example with real-life dataset.
+The notebooks contain both vital theory and practical examples with real-life datasets.
 
 The details in the notebooks discussed are:
 
