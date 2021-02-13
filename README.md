@@ -7,6 +7,20 @@ It should be useful for both a quick review and a reference to fall back upon.
 
 The details in the notebooks discussed are:
 
+## Linear Regression Model Development
+This notebook discusses on creation of Linear Regression Models as a way of prediction. Specifically, it discusses:
+* Simple Linear Regression
+    - Getting the equation
+* Multiple Linear Regression
+* Model evaluation with Visualization
+    - Regression Plot
+    - Residual Plot
+    - Distribution Plot for MLR
+* Polynomial Regression
+* Pipelines
+* In-sample Evaluation metrics like R-squared, RMSE, MAE
+* Determining a good model
+
 ## Exploratory Data Analysis
 
 This notebook details some exploratory data analysis approaches. I also go through a realworld database on cars and conduct the analysis to find important variables to predict price. Specifically, it talks about:
