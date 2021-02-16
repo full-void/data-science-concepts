@@ -40,6 +40,17 @@ This notebook details some exploratory data analysis approaches. I also go throu
     - Visualizing using Heatmaps
 * P-values and correlation
 
+## Model Evaluation and Refinement
+
+This notebook talks bout methods to evaluate a model. It talks about:
+
+* Training and Testing
+* Evaluation with metrics (such as RMSE or R-squared)
+* K-Fold Cross-validation
+    - Getting descriptive stats
+    - Using various metrics
+* Overfitting, Underfitting and Model Selection
+
 ## Data Wrangling
 
 This notebook contains concepts and notes on data wrangling: preparing data for further analysis and model development. We go through a life-like example and clean a data from the UCI Machine Learning Repository. Specifically, it discusses:
