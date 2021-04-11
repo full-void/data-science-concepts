@@ -19,6 +19,8 @@ This notebook discusses on creation of Linear Regression Models as a way of pred
     - Distribution Plot for MLR
 * Polynomial Regression
 * Pipelines
+* Regularization - L2 or Ridge Regression
+* Grid Search
 * In-sample Evaluation metrics like R-squared, RMSE, MAE
 * Determining a good model
 
@@ -50,6 +52,18 @@ This notebook talks bout methods to evaluate a model. It talks about:
     - Getting descriptive stats
     - Using various metrics
 * Overfitting, Underfitting and Model Selection
+
+## K Nearest Neighbors
+
+This notebook contains info about K Nearest Neighbors algorithm for classification problems. It goes in detail about:
+
+* What is K-Nearest Neighors Algorithm
+    - Advantages
+    - Disadvantages
+    - Choosing K
+* Creating the Model
+* Evaluation
+* Tuning K
 
 ## Data Wrangling
 
