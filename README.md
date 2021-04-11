@@ -45,7 +45,7 @@ This notebook details some exploratory data analysis approaches. I also go throu
 This notebook talks bout methods to evaluate a model. It talks about:
 
 * Training and Testing
-* Evaluation with metrics (such as RMSE or R-squared)
+* Evaluation with metrics (such as Jaccard Index, F1-score, RMSE or R-squared)
 * K-Fold Cross-validation
     - Getting descriptive stats
     - Using various metrics
