@@ -44,7 +44,7 @@ This notebook details some exploratory data analysis approaches. I also go throu
 
 ## Model Evaluation and Refinement
 
-This notebook talks bout methods to evaluate a model. It talks about:
+This notebook talks about methods to evaluate a model. It talks about:
 
 * Training and Testing
 * Evaluation with metrics (such as Jaccard Index, F1-score, RMSE or R-squared)
@@ -52,6 +52,24 @@ This notebook talks bout methods to evaluate a model. It talks about:
     - Getting descriptive stats
     - Using various metrics
 * Overfitting, Underfitting and Model Selection
+
+## Decision Trees
+
+This notebook discussed Decision Trees as a way to approach classification problems. Specifically, it details on:
+
+* What is  Decision Tree?
+    - Advantages
+    - Disadvantages
+* Practical Problem
+* The Data
+    - Pre-processing
+    - Label Encoding
+    - Split into train/test
+* Modeling
+* Prediction and Evaluation
+* Grid Search
+* Evaluation of Best Decision Tree from Grid Search
+* Conclusion
 
 ## K Nearest Neighbors
 
