@@ -53,6 +53,24 @@ This notebook talks about methods to evaluate a model. It talks about:
     - Using various metrics
 * Overfitting, Underfitting and Model Selection
 
+## Logistic Regression
+
+This notebook discusses Logistic Regression as a way to approach classification problems. It details upon:
+
+* What is Logistic Regression
+    - Difference From Linear Regression
+    - Advantages
+    - Disadvatages
+* Creating the Model
+    - About the dataset, Loading data, Pre-processing
+    - Train/Test
+    - Modeling with sklearn
+    - Getting Probability for classes
+    - Evaluation
+        + Jaccard Index
+        + Confusion Matrix
+        + Classification Report
+
 ## Decision Trees
 
 This notebook discussed Decision Trees as a way to approach classification problems. Specifically, it details on:
