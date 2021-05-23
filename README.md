@@ -20,7 +20,7 @@ This notebook discusses on creation of Linear Regression Models as a way of pred
 * Polynomial Regression
 * Pipelines
 * Regularization - L2 or Ridge Regression
-* Grid Search
+* Hyper Parameter Tuning with Grid Search
 * In-sample Evaluation metrics like R-squared, RMSE, MAE
 * Determining a good model
 
@@ -53,6 +53,22 @@ This notebook talks about methods to evaluate a model. It talks about:
     - Using various metrics
 * Overfitting, Underfitting and Model Selection
 
+## SVM
+
+This notebook discusses SVMs as a classification problem solver. It talks about:
+
+* What is SVM
+    - Advantages
+    - Disadvantages
+* Practical Example
+    - About dataset, Load Data and Pre-processing
+    - Train/test
+    - Modeling with sklearn
+    - Evaluation
+        + Confusion Matrix
+        + Classification Report (Precision, Recall, F1 Score)
+        + Jaccard Index
+
 ## Logistic Regression
 
 This notebook discusses Logistic Regression as a way to approach classification problems. It details upon:
@@ -69,7 +85,7 @@ This notebook discusses Logistic Regression as a way to approach classification 
     - Evaluation
         + Jaccard Index
         + Confusion Matrix
-        + Classification Report
+        + Classification Report (Precision, Recall, F1 Score)
 
 ## Decision Trees
 
