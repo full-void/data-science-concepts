@@ -53,6 +53,20 @@ This notebook talks about methods to evaluate a model. It talks about:
     - Using various metrics
 * Overfitting, Underfitting and Model Selection
 
+## K-Means Clustering
+
+This notebook discusses K-Means Clustering Algorithm. It details upon:
+* What is K-Means Clustering
+    - Advantages
+    - Disadvantages
+* K-Means on a randomly generated dataset
+    - Setting up K-Means 
+    - Creating Visual Plot
+* Practical Problem: Customer Segmentation
+    - Loading and pre-processing data
+    - Modeling
+    - Obtaining insights and segmenting customers
+
 ## SVM
 
 This notebook discusses SVMs as a classification problem solver. It talks about:
