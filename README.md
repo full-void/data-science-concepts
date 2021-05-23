@@ -91,7 +91,7 @@ This notebook discusses Logistic Regression as a way to approach classification 
     - Difference From Linear Regression
     - Advantages
     - Disadvatages
-* Creating the Model
+* Practical Example: Creating the Model
     - About the dataset, Loading data, Pre-processing
     - Train/Test
     - Modeling with sklearn
@@ -100,6 +100,19 @@ This notebook discusses Logistic Regression as a way to approach classification 
         + Jaccard Index
         + Confusion Matrix
         + Classification Report (Precision, Recall, F1 Score)
+        
+## Hierarchical Clustering
+* What is Hierarchical Clustering
+    - Types of Hierarchical Clustering
+    - Important Considerations
+        + Measures of distance
+        + Linkage Criteria
+    - Advantages
+    - Disadvantages
+* Hierarchical Clustering on Random Data
+    - Generating Random Data
+    - Creating the Model
+    - Visual Plot
 
 ## Decision Trees
 
