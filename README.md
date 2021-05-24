@@ -10,6 +10,7 @@ The details in the notebooks discussed are:
 
 ## Linear Regression Model Development
 This notebook discusses on creation of Linear Regression Models as a way of prediction. Specifically, it discusses:
+
 * Simple Linear Regression
     - Getting the equation
 * Multiple Linear Regression
@@ -53,9 +54,29 @@ This notebook talks about methods to evaluate a model. It talks about:
     - Using various metrics
 * Overfitting, Underfitting and Model Selection
 
+## DBSCAN Clustering
+
+This notebook talks about the DBSCAN algorithm as a means to approach clustering problem It details upon:
+
+* What is DBSCAN Algorithm
+    - The Algorithm's Steps
+    - Selecting Parameters
+        + MinPts
+        + Epsilon
+        + Distance Function
+    - Advantages
+    - Disadvantages
+* DBSCAN on Random Data
+    - Data Generation
+    - Modeling
+        + Selecting Parameters
+        + Distinguishing Outliers
+        + Data visualisation and conclusion
+
 ## K-Means Clustering
 
 This notebook discusses K-Means Clustering Algorithm. It details upon:
+
 * What is K-Means Clustering
     - Advantages
     - Disadvantages
