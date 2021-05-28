@@ -9,6 +9,7 @@ The notebooks contain both vital theory and practical examples with real-life da
 The details in the notebooks discussed are:
 
 ## Linear Regression Model Development
+
 This notebook discusses on creation of Linear Regression Models as a way of prediction. Specifically, it discusses:
 
 * Simple Linear Regression
@@ -53,6 +54,23 @@ This notebook talks about methods to evaluate a model. It talks about:
     - Getting descriptive stats
     - Using various metrics
 * Overfitting, Underfitting and Model Selection
+* Hyperparameter Tuning
+    - Grid Search
+    - Randomized Parameter Optimization
+
+## Dimensionality Reduction
+
+* Why Dimensionality Reduction
+* Types of Dimensionality Reduction
+* Missing Value Ratio
+* Low Variance Filter
+* High Correlation Filter
+* Random Forest
+* Permutation Importance
+* Backward Feature Elimination
+* Forward Feature Selection
+* Principal Component Analysis or PCA
+* Manifold Learning: Isomap
 
 ## DBSCAN Clustering
 
