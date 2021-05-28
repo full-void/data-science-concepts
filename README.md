@@ -26,6 +26,42 @@ This notebook discusses on creation of Linear Regression Models as a way of pred
 * In-sample Evaluation metrics like R-squared, RMSE, MAE
 * Determining a good model
 
+## Feature Engineering
+
+This notebook contains concepts and notes on feature engineering: preparing data for further analysis and model development. We also go through a life-like example and clean a data from the UCI Machine Learning Repository. Specifically, it discusses:
+
+* Setting Headers
+* Imputation
+    - Identifying the missing values
+        + Converting other markers (such as ?) to NAN
+        + Analysing for missing data
+        + Count missing values in each column
+    - Dealing with missing values
+        + Numerical Imputation
+        + Categorical Imputation
+        + Replacing data with mean and frequency
+* Correcting the data format
+* Handling Outliers
+    - Outlier Detection with Standard Deviation
+    - Outlier Detection with Percentiles
+    - An Outlier Dilemma: Drop or Cap
+* Standardizing the Data Units
+* Scaling
+    - Normalization
+    - Standardization 
+* Feature Splitting
+* Binning
+    - Visualizing Bins
+* Log Transformation
+    - Important things to consider
+* Grouping
+    - Categorical Column Grouping
+    - Numerical Column Grouping
+* Encoding Categorical Variables
+    - Label Encoding
+    - One-hot Encoding
+* Extracting Date
+
 ## Exploratory Data Analysis
 
 This notebook details some exploratory data analysis approaches. I also go through a realworld database on cars and conduct the analysis to find important variables to predict price. Specifically, it talks about:
@@ -182,27 +218,6 @@ This notebook contains info about K Nearest Neighbors algorithm for classificati
 * Creating the Model
 * Evaluation
 * Tuning K
-
-## Data Wrangling
-
-This notebook contains concepts and notes on data wrangling: preparing data for further analysis and model development. We go through a life-like example and clean a data from the UCI Machine Learning Repository. Specifically, it discusses:
-
-* Setting Headers
-* Correcting the Data
-    - Identifying the missing values
-        + Converting other markers (such as ?) to NAN
-        + Analysing for missing data
-    - Dealing with missing values
-        + Dropping data
-        + Replacing data with mean and frequency
-    - Correcting the data format
-* Data Standardization
-* Data Noramalization
-* Binning
-    - Visualizing Bins
-* Encoding Categorical Variables
-    - Label Encoding
-    - One-hot Encoding
 
 ## SQL and Pandas
 
