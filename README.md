@@ -89,6 +89,8 @@ This notebook talks about methods to evaluate a model. It talks about:
 * K-Fold Cross-validation
     - Getting descriptive stats
     - Using various metrics
+    - Stratified K-Fold Cross Validation
+    - Script to use CV and get metric stats and graphs for different models
 * Overfitting, Underfitting and Model Selection
 * Hyperparameter Tuning
     - Grid Search
