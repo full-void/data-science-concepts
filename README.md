@@ -8,24 +8,6 @@ The notebooks contain both vital theory and practical examples with real-life da
 
 The details in the notebooks discussed are:
 
-## Linear Regression Model Development
-
-This notebook discusses on creation of Linear Regression Models as a way of prediction. Specifically, it discusses:
-
-* Simple Linear Regression
-    - Getting the equation
-* Multiple Linear Regression
-* Model evaluation with Visualization
-    - Regression Plot
-    - Residual Plot
-    - Distribution Plot for MLR
-* Polynomial Regression
-* Pipelines
-* Regularization - L2 or Ridge Regression
-* Hyper Parameter Tuning with Grid Search
-* In-sample Evaluation metrics like R-squared, RMSE, MAE
-* Determining a good model
-
 ## Feature Engineering
 
 This notebook contains concepts and notes on feature engineering: preparing data for further analysis and model development. We also go through a life-like example and clean a data from the UCI Machine Learning Repository. Specifically, it discusses:
@@ -62,24 +44,6 @@ This notebook contains concepts and notes on feature engineering: preparing data
     - One-hot Encoding
 * Extracting Date
 
-## Exploratory Data Analysis
-
-This notebook details some exploratory data analysis approaches. I also go through a realworld database on cars and conduct the analysis to find important variables to predict price. Specifically, it talks about:
-
-* Loading data and finding important metadata about column types.
-* Finding relationship between numerical data using Pearson correlation.
-    - Visualising relationship using regression plots.
-* Finding relationship between numerical and categorical data.
-    - Using boxplots to visualize the data.
-    - Conducting ANOVA analysis to check for statistically significant relationship.
-* Descriptive Statistical Analysis
-    - Using pandas' `describe()` method to get important statistics such as 5 number summary and other statistically important values.
-    - Finding counts of unique values and making decisions on legibility of the data.
-* Grouping of the data.
-    - Finding important information such as means of the data divided by groups.
-    - Visualizing using Heatmaps
-* P-values and correlation
-
 ## Model Evaluation and Refinement
 
 This notebook talks about methods to evaluate a model. It talks about:
@@ -98,6 +62,8 @@ This notebook talks about methods to evaluate a model. It talks about:
 
 ## Dimensionality Reduction
 
+This notebook discusses dimensionality reduction techniques to help in machine learning. It discusses:
+
 * Why Dimensionality Reduction
 * Types of Dimensionality Reduction
 * Missing Value Ratio
@@ -109,6 +75,69 @@ This notebook talks about methods to evaluate a model. It talks about:
 * Forward Feature Selection
 * Principal Component Analysis or PCA
 * Manifold Learning: Isomap
+
+## Ensemble Techniques
+
+This notebook discusses various Ensemble Techniques. It goes in detail about:
+* Max Voting
+* Averaging
+* Weighted Average
+* Stacking
+* Blending
+    - Implementation in Python from ground up
+* Bagging
+    - Hyperparameters
+    - Extensions: Other Ensemble Techniques based on bagging
+        + Pasting Ensemble
+        + Random Subspace Ensemble
+        + Random Patches Ensemble
+* Random Forest
+* Boosting
+    - Choosing the base model
+* AdaBoost
+    - Hyperparameters
+* Gradient Boosting Machine
+    - Hyperparameters
+* XGBoost
+    - Hyperparameters
+* LightGBM
+* CatBoost
+
+## Exploratory Data Analysis
+
+This notebook details some exploratory data analysis approaches. I also go through a realworld database on cars and conduct the analysis to find important variables to predict price. Specifically, it talks about:
+
+* Loading data and finding important metadata about column types.
+* Finding relationship between numerical data using Pearson correlation.
+    - Visualising relationship using regression plots.
+* Finding relationship between numerical and categorical data.
+    - Using boxplots to visualize the data.
+    - Conducting ANOVA analysis to check for statistically significant relationship.
+* Descriptive Statistical Analysis
+    - Using pandas' `describe()` method to get important statistics such as 5 number summary and other statistically important values.
+    - Finding counts of unique values and making decisions on legibility of the data.
+* Grouping of the data.
+    - Finding important information such as means of the data divided by groups.
+    - Visualizing using Heatmaps
+* P-values and correlation
+
+## Linear Regression Model Development
+
+This notebook discusses on creation of Linear Regression Models as a way of prediction. Specifically, it discusses:
+
+* Simple Linear Regression
+    - Getting the equation
+* Multiple Linear Regression
+* Model evaluation with Visualization
+    - Regression Plot
+    - Residual Plot
+    - Distribution Plot for MLR
+* Polynomial Regression
+* Pipelines
+* Regularization - L2 or Ridge Regression
+* Hyper Parameter Tuning with Grid Search
+* In-sample Evaluation metrics like R-squared, RMSE, MAE
+* Determining a good model
 
 ## DBSCAN Clustering
 
