@@ -113,13 +113,18 @@ This notebook details some exploratory data analysis approaches. I also go throu
 * Finding relationship between numerical and categorical data.
     - Using boxplots to visualize the data.
     - Conducting ANOVA analysis to check for statistically significant relationship.
+* Finding relationship between categorical data with Corrected Cramer's V
 * Descriptive Statistical Analysis
     - Using pandas' `describe()` method to get important statistics such as 5 number summary and other statistically important values.
     - Finding counts of unique values and making decisions on legibility of the data.
 * Grouping of the data.
     - Finding important information such as means of the data divided by groups.
     - Visualizing using Heatmaps
-* P-values and correlation
+* Correlation and Causation
+    - Pearson Correlation
+    - Cramer's V
+    - ANOVA method
+    - P-value
 
 ## Linear Regression Model Development
 
