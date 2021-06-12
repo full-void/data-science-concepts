@@ -177,6 +177,7 @@ This notebook discusses K-Means Clustering Algorithm. It details upon:
     - Loading and pre-processing data
     - Modeling
     - Obtaining insights and segmenting customers
+* Finding the best K: The Elbow Method
 
 ## SVM
 
